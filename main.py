@@ -11,8 +11,8 @@ from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
 
 load_dotenv()
-os.getenv("AIzaSyCDG55FR67-bFdY6K1MSxp9GZjL3jFZsIw")
-genai.configure(api_key=os.getenv("AIzaSyCDG55FR67-bFdY6K1MSxp9GZjL3jFZsIw"))
+os.getenv("")
+genai.configure(api_key=os.getenv(""))
 
 
 
