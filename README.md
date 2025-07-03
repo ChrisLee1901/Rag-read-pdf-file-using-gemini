@@ -81,7 +81,7 @@ GOOGLE_API_KEY=your_google_api_key_here
 ### 5. Run the Application
 
 ```bash
-streamlit run chatpdf1.py
+streamlit run main.py
 ```
 
 The application will open in your default browser at `http://localhost:8501`
@@ -92,7 +92,7 @@ The application will open in your default browser at `http://localhost:8501`
 
 1. **🚀 Launch the Application**
    ```bash
-   streamlit run chatpdf1.py
+   streamlit run main.py
    ```
 
 2. **📁 Upload Your PDFs**
@@ -158,7 +158,7 @@ graph LR
 
 ### Custom Configuration
 
-To modify settings, edit the parameters in `chatpdf1.py`:
+To modify settings, edit the parameters in `main.py`:
 
 ```python
 # Text chunking
